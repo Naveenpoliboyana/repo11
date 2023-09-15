@@ -2,6 +2,12 @@ hi
 good evening to all
 aws
 data science
+<<<<<<< HEAD
 data secience 
 data science
+=======
+test commit 
+test commit
+test commit
+>>>>>>> release
 
